@@ -1,0 +1,70 @@
+[
+  "container",
+  "dataprovider",
+  "table",
+  "repeater",
+  "button",
+  "search",
+  {
+    "name": "Form",
+    "icon": "Form",
+    "children": [
+      "form",
+      "fieldgroup",
+      "stringfield",
+      "numberfield",
+      "passwordfield",
+      "optionsfield",
+      "booleanfield",
+      "longformfield",
+      "datetimefield",
+      "attachmentfield",
+      "relationshipfield"
+    ]
+  },
+  {
+    "name": "Card",
+    "icon": "Card",
+    "children": [
+      "stackedlist",
+      "card",
+      "cardhorizontal",
+      "cardstat"
+    ]
+  },
+  {
+    "name": "Chart",
+    "icon": "GraphBarVertical",
+    "children": [
+      "bar",
+      "line",
+      "area",
+      "pie",
+      "donut",
+      "candlestick"
+    ]
+  },
+  {
+    "name": "Elements",
+    "icon": "TextParagraph",
+    "children": [
+      "heading",
+      "text",
+      "image",
+      "backgroundimage",
+      "link",
+      "icon",
+      "embed"
+    ]
+  },
+  {
+    "name": "Other",
+    "icon": "More",
+    "children": [
+      "screenslot",
+      "navigation",
+      "login"
+    ]
+  }
+]
+
